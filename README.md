@@ -10,4 +10,4 @@ A library of Python stuff.
 
 **FYI** This isn't really copyrighted or trademarked or any of that random stuff. Its just a cool symbol.
 
-Have Fun!
+Have Fun! :)
