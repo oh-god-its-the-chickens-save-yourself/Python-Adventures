@@ -9,7 +9,7 @@ print("""
 	+------------------------+
 	|Created by Shaunak Ghosh|
 	|Date: 30/03/2023 14:40  |
-	|Github: @shaunakg3      |
+	|Github: @horsesnacks    |
 	+------------------------+
 	\n
 	""")
