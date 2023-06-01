@@ -5,14 +5,6 @@ import random
 os.system("clear")
 
 print("PyFlight.")
-print("""
-	+------------------------+
-	|Created by Shaunak Ghosh|
-	|Date: 30/03/2023 14:40  |
-	|Github: @horsesnacks    |
-	+------------------------+
-	\n
-	""")
 option = input("What would you like to simulate.\n[1] Air Traffic\n[2] Landings\n[3] Crash\n>>> ")
 
 # Functions and Variables.
